@@ -10,8 +10,8 @@ class Circle {
     return Math.PI * this.raduis*2;
   }
   get area(){
-    
+
   }
 
-  
+
 }
